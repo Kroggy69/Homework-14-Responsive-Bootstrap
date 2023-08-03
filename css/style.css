@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-nav .nav-item .nav-link {
+    font-size: 0.93rem;
+    padding: 14px 14px !important;
+}
+
+.navbar-toggler-icon.custom-toggler {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.portfolio .card-text,
+.more-info  .card-text,
+footer .text-muted{
+    font-size: 14px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.portfolio .pagination .page-item .page-link {
+    font-size: 14px;
+}
+
+.bg-lightskyblue {
+    background-color: rgb(135,206,250);
+}
+
+.more-info img {
+    width: 100px;
+    height: 100px;
+}
+
+.btn-brightblue {
+    background-color: rgb(51,122,183);
+}
